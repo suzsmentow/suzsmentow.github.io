@@ -266,8 +266,7 @@ html, body
 		width: 400px;
 	}
 	
-	.column1,
-	.column2
+	.column1
 	{
 		float: left;
 		margin-right: 24px;
