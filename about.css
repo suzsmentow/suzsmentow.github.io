@@ -270,7 +270,7 @@ html, body
 	.column2
 	{
 		float: left;
-		margin-right: 24px;
+		margin-right: 28px;
 	}
   	.column1
   	{
@@ -282,5 +282,5 @@ html, body
 	}
 	#img
 	{
-		
+		margin-right: 50px;	
 	}
