@@ -279,8 +279,6 @@ html, body
 	.column2
 	{
 		float: right;
+		margin-right: 35em
 	}
-	#img
-	{
-		margin-right: 35em	
-	}
+
