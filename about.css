@@ -272,11 +272,15 @@ html, body
 		float: left;
 		margin-right: 24px;
 	}
-  .column1
-  {
-  margin-left: 28px
-  }
+  	.column1
+  	{
+  		margin-left: 28px
+	 }
 	.column2
 	{
 		float: right;
+	}
+	#img
+	{
+		
 	}
