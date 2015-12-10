@@ -274,11 +274,12 @@ html, body
 	}
   	.column1
   	{
-  		margin-left: 28px
+  		margin-left: 28px;
 	 }
 	.column2
 	{
 		float: right;
-		margin-right: 35em
+		margin-right: 35em;
+		position: relative;
 	}
 
